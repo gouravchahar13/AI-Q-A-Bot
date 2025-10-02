@@ -1,0 +1,29 @@
+"""
+Documentation Steps:
+
+1. Project Setup:
+    - Initialized a new Python project directory.
+    - Created a virtual environment and activated it.
+    - Installed required dependencies,`streamlit` `huggingface-hub`.
+
+2. App Development:
+    - Designed the user interface using Streamlit components.
+    - Implemented core logic and functions to process user input and display results.
+    - Tested the app locally to ensure all features work as expected.
+
+3. Version Control:
+    - Initialized a Git repository in the project directory.
+    - Committed all source code, requirements file, and documentation.
+
+4. Preparing for Deployment:
+    - Created a `requirements.txt` file listing all dependencies.
+    - Added a `README.md` file with project description and usage instructions.
+    - Ensured the main app file is named `streamlit_app.py` instead of `app.py` as required by Streamlit Cloud.
+
+5. Deploying to Streamlit Cloud:
+    - Pushed the project repository to GitHub.
+    - Logged into Streamlit Cloud and connected the GitHub repository.
+    - Configured deployment settings (e.g., branch, main file).
+    - Deployed the app and verified successful launch on Streamlit Cloud.
+
+"""
